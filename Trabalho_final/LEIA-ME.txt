@@ -1,0 +1,9 @@
+TAREFA 5 - SISTEMA DE ESTOQUE
+
+Abra Projeto5.dev no Dev-C++ e use Executar > Compilar e Executar.
+
+Os arquivos produtos.txt e categorias.txt sao criados ao escolher 7 - Sair.
+O programa tambem le arquivos da Tarefa 4 (produtos antigos ficam ativos).
+Execute sempre a partir da mesma pasta para encontrar os arquivos de dados.
+
+Teste: cadastre categoria, cadastre produto, altere estoque, remova, saia e reabra.
